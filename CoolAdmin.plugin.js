@@ -17,7 +17,7 @@ class CoolAdmin {
 		return 'Le Cool Admin';
 	}
 	getRawUrl() {
-		return ""
+		return "https://github.com/Diamond89/a/blob/master/CoolAdmin.plugin.js"
 	}
 	constructor() {
 		this.changelog = {
